@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+button:focus{
+    background-color: #0d6efd;
+    color: white;
+    transition: all 2s;
+}
+button:hover{
+    transition: 0.5s;
+}
