@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hamza-Abid/static/css/main.3867df37.css",
+    "main.js": "/Hamza-Abid/static/js/main.2f32a39d.js",
+    "static/media/daraz.png": "/Hamza-Abid/static/media/daraz.9955bf133049468aae0e.png",
+    "static/media/My-CV.pdf": "/Hamza-Abid/static/media/My-CV.3e4151eec9e9ef3423e7.pdf",
+    "static/media/react.png": "/Hamza-Abid/static/media/react.c1400a56b9ac0900068f.png",
+    "static/media/css.png": "/Hamza-Abid/static/media/css.5d4542f28746d852364c.png",
+    "static/media/portfolio.png": "/Hamza-Abid/static/media/portfolio.6bc64e08723a528a070b.png",
+    "static/media/boostrap.png": "/Hamza-Abid/static/media/boostrap.83516ecf42692c35d9ec.png",
+    "static/media/textform.png": "/Hamza-Abid/static/media/textform.3a97a4927fe6dc73149f.png",
+    "index.html": "/Hamza-Abid/index.html",
+    "main.3867df37.css.map": "/Hamza-Abid/static/css/main.3867df37.css.map",
+    "main.2f32a39d.js.map": "/Hamza-Abid/static/js/main.2f32a39d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3867df37.css",
+    "static/js/main.2f32a39d.js"
+  ]
+}
