@@ -11,3 +11,9 @@
     width: 50%;
     z-index: 1;
 }
+@media screen and (max-width: 770px){
+    .column img:hover{
+        width: 120%;
+        scale: 1.1;
+    }
+}

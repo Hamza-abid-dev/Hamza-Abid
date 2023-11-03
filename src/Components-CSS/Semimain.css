@@ -1,9 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');.exp{
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.exp{
     background-color: rgb(224, 223, 223);
     font-family: 'Anton', sans-serif;}
-.exp h1{
-    letter-spacing: 3px;
+.exp h3{
+
+    margin-left: 20px;
 }
-.exp span h1{
-    margin-left: 100px;
+@media screen and (max-width: 770px){
+    .exp h3{
+        width: 10px;
+        font-size: 14px;
+        display: inline-flex;
+        margin-right: 25px;
+        justify-content: space-around;
+    }
 }

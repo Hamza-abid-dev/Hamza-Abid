@@ -25,7 +25,7 @@ const Contact = () => {
         <textarea className='rounded-2 p-2 w-100 h-75 ' placeholder='Describe here!'></textarea>
         <input type="radio" />By submitting, I agree to the <span className='underline'>Terms & Conditons</span>
       </div>
-      <button onClick={request} className="btn123 btn w-25 btn-dark my-5">
+      <button onClick={request} className="btn123 btn btn-dark my-5">
             Request Now
         </button>
       </div>

@@ -3,8 +3,8 @@ import '../Components-CSS/Navbar.css';
 // import {Link} from 'react-router-dom'
 const Navbar = () => {
   return (
-    <div className='navbarr'>
-    <nav id="navvv" className="navbar navbar-expand-lg bg-body-tertiary shadow p-3 mb-5 ">
+    <div className='navbarr container-fluid'>
+    <nav id="navvv" className="container-fluid navbar navbar-expand-lg bg-body-tertiary shadow p-3 mb-5 ">
   <div className="container py-2">
     <a className="navbar-brand fw-semibold " href="#"><span className='navheading'>HAMZA ABID</span></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

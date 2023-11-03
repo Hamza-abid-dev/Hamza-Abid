@@ -10,12 +10,11 @@ const semimain = () => {
   return (
     <div>
       <div className="exp d-flex justify-content-around text-center container">
-      <h3><span><img className='my-3' src={html} width={"50px"} alt=""/></span><br /> HTML</h3>
-      <h3><span><img className='my-2' src={Css} width={"65"} height={"65px"} alt=""/></span><br /> CSS</h3>
-      <h3><span><img src={Boostrap} width={"80px"} alt=''/></span><br />&nbsp;BOOSTRAP</h3>
-      <h3><span><img  className='my-3' src={Java} width={"50px"} alt=''/></span><br />JAVASCRIPT</h3>
-      <h3><span><img  className='my-3' src={Reacct} width={"50px"} alt=''/></span><br />&nbsp;REACT JS</h3>
-      <div id='about' ></div>
+      <h3 className='ml-lg-5'><span><img className='my-3' src={html} width={"50px"} alt=""/></span><br /> HTML</h3>
+      <h3 className='ml-lg-5'><span><img className='my-2' src={Css} width={"65px"} alt=""/></span><br /> CSS</h3>
+      <h3 className='ml-lg-5'><span><img src={Boostrap} width={"80px"} alt=''/></span><br />&nbsp;BOOSTRAP</h3>
+      <h3 className='ml-lg-5'><span><img  className='my-3' src={Java} width={"50px"} alt=''/></span><br />JAVASCRIPT</h3>
+      <h3 className='ml-lg-5'><div  id="about"></div><span><img  className='my-3' src={Reacct} width={"50px"} alt=''/></span><br />&nbsp;REACT JS</h3>
       </div>
     </div>
   )

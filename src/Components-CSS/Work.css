@@ -21,3 +21,8 @@
     /* transition: cubic-bezier(0.95, 0.05, 0.795, 0.035); */
     justify-content: center;
 }
+@media screen and (max-width: 770px){
+    #workcard{
+        margin-top: 20px;
+    }
+}

@@ -14,4 +14,13 @@
 }
 .btn123{
     margin-left: 300px;
+    width: 200px;
+}
+@media screen and (max-width: 770px){
+    .btn123{
+        margin-left: 1px;
+        width: 100%;
+        /* padding: 10px; */
+        /* display: block; */
+    }
 }
