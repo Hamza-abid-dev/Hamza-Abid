@@ -24,10 +24,11 @@ const About = () => {
           <Routes>
             <Route path='/' element={<Skills/>}></Route>
             <Route path='/Courses' element={<Courses id='btn1'/>}></Route>
-            <Route path='/Education' element={<Education/>}></Route>
+            <Route  path='/Education' element={<Education/>}></Route>
           </Routes>
         </span>
       </div>
+      <div  id='services'></div>
     </div>
   )
 }

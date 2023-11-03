@@ -14,7 +14,8 @@ const semimain = () => {
       <h3><span><img className='my-2' src={Css} width={"65"} height={"65px"} alt=""/></span><br /> CSS</h3>
       <h3><span><img src={Boostrap} width={"80px"} alt=''/></span><br />&nbsp;BOOSTRAP</h3>
       <h3><span><img  className='my-3' src={Java} width={"50px"} alt=''/></span><br />JAVASCRIPT</h3>
-      <h3><span><img  id='about' className='my-3' src={Reacct} width={"50px"} alt=''/></span><br />&nbsp;REACT JS</h3>
+      <h3><span><img  className='my-3' src={Reacct} width={"50px"} alt=''/></span><br />&nbsp;REACT JS</h3>
+      <div id='about' ></div>
       </div>
     </div>
   )
