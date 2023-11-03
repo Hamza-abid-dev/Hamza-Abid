@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hamza-Abid/static/css/main.8bc05ad1.css",
-    "main.js": "/Hamza-Abid/static/js/main.7b1873c5.js",
+    "main.css": "/Hamza-Abid/static/css/main.04c9b396.css",
+    "main.js": "/Hamza-Abid/static/js/main.c2d896c3.js",
     "static/media/daraz.png": "/Hamza-Abid/static/media/daraz.9955bf133049468aae0e.png",
     "static/media/My-CV.pdf": "/Hamza-Abid/static/media/My-CV.3e4151eec9e9ef3423e7.pdf",
     "static/media/react.png": "/Hamza-Abid/static/media/react.c1400a56b9ac0900068f.png",
@@ -10,11 +10,11 @@
     "static/media/boostrap.png": "/Hamza-Abid/static/media/boostrap.83516ecf42692c35d9ec.png",
     "static/media/textform.png": "/Hamza-Abid/static/media/textform.3a97a4927fe6dc73149f.png",
     "index.html": "/Hamza-Abid/index.html",
-    "main.8bc05ad1.css.map": "/Hamza-Abid/static/css/main.8bc05ad1.css.map",
-    "main.7b1873c5.js.map": "/Hamza-Abid/static/js/main.7b1873c5.js.map"
+    "main.04c9b396.css.map": "/Hamza-Abid/static/css/main.04c9b396.css.map",
+    "main.c2d896c3.js.map": "/Hamza-Abid/static/js/main.c2d896c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bc05ad1.css",
-    "static/js/main.7b1873c5.js"
+    "static/css/main.04c9b396.css",
+    "static/js/main.c2d896c3.js"
   ]
 }
